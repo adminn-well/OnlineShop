@@ -183,7 +183,7 @@ nav ul li a:hover {
 .card button:hover {
     opacity: 0.7;
 }
-.botom {
+.bottom {
     justify-content: space-between;
     margin: 90px;
     grid-row-start: 6;
@@ -196,10 +196,10 @@ nav ul li a:hover {
     content: 1600px;
     color: rgb(50, 56, 54);
 }
-.botom th{
+.bottom th{
     size: 200px;
 }
-.botom img{
+.bottom img{
     width: 13px;
 }
 h1 {
@@ -208,7 +208,7 @@ h1 {
 h1 :hover{
     color: #000;
 }
-.botom td {
+.bottom td {
     text-decoration: none;
     color: black;
     padding: 5px 20px;
@@ -216,7 +216,7 @@ h1 :hover{
     transition: 0.6s;
     box-shadow: 4px 3px 3px;
 }
-.botom td, img :hover{
+.bottom td, img :hover{
     background-color: #fff;
     color: #000;
 }
